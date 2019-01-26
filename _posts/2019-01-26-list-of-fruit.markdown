@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Markdown test"
+title:  "List of fruit"
 date:   2019-01-26 22:31 +0000
 categories: jekyll update
 ---
