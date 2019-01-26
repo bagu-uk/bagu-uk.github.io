@@ -14,4 +14,4 @@ National Standard cycle training, now known as ‘Bikeability’, was introduced
 
 We offer personalised road skills cycling tuition for all ages and abilities to National Standard in and around Southampton and Dorset.
 
-Want to know more?
+Want to know more? Follow the links.
